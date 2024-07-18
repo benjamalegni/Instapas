@@ -1,3 +1,7 @@
 # Instapas
-instapas pascal introprog2 unicen ing sistemas
-[<img alt="el perro" width="1000px" src="https://i.ibb.co/MSySgFS/hubbard4-25551.png" />](https://www.google.com/)
+
+![title](Images/ip.jpg)
+
+# Description
+A Instagram-like program written in pascal which allows the user to follow people, upload histories.
+Implementing features such as deleting your profile, choosing the time range to see histories and displaying the average number of people followed
