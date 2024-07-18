@@ -1,6 +1,6 @@
 # Instapas
 
-![title](Images/ip.jpg)
+![Instapas](ip.jpg)
 
 # Description
 A Instagram-like program written in pascal which allows the user to follow people, upload histories.
